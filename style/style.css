@@ -1,0 +1,51 @@
+*{
+    background-color: beige;
+}
+h1{
+
+    border: 2px burlywood solid;
+    margin: 20px;
+    color: brown;
+    font-size: 40px;
+    font-family:fantasy
+
+
+    }
+
+
+h2{
+
+    color: brown;
+    font-family: fantasy;
+    }
+
+p{
+    font-family: cursive;
+    text-align:left;
+
+
+}
+
+
+form{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    
+    
+}
+a:hover{
+
+    background-color: rgb(173, 120, 120);
+    
+}
+
+.main{
+
+    margin-top: 100px;
+}
+
+a {
+    margin-left: 20px;
+    margin-right: 20px;
+}
